@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="7.377" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/praveen/Documents/personal_automation/api_automation_restAssured/target/test-classes:/Users/praveen/Documents/personal_automation/api_automation_restAssured/target/classes:/Users/praveen/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/praveen/.m2/repository/com/jayway/jsonpath/json-path/2.8.0/json-path-2.8.0.jar:/Users/praveen/.m2/repository/net/minidev/json-smart/2.4.10/json-smart-2.4.10.jar:/Users/praveen/.m2/repository/net/minidev/accessors-smart/2.4.9/accessors-smart-2.4.9.jar:/Users/praveen/.m2/repository/org/ow2/asm/asm/9.3/asm-9.3.jar:/Users/praveen/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.18.0/jackson-databind-2.18.0.jar:/Users/praveen/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.18.0/jackson-annotations-2.18.0.jar:/Users/praveen/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.jar:/Users/praveen/.m2/repository/io/rest-assured/rest-assured/5.3.0/rest-assured-5.3.0.jar:/Users/praveen/.m2/repository/org/apache/groovy/groovy/4.0.6/groovy-4.0.6.jar:/Users/praveen/.m2/repository/org/apache/groovy/groovy-xml/4.0.6/groovy-xml-4.0.6.jar:/Users/praveen/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/praveen/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/praveen/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/praveen/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/praveen/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/praveen/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/praveen/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/praveen/.m2/repository/io/rest-assured/json-path/5.3.0/json-path-5.3.0.jar:/Users/praveen/.m2/repository/org/apache/groovy/groovy-json/4.0.6/groovy-json-4.0.6.jar:/Users/praveen/.m2/repository/io/rest-assured/rest-assured-common/5.3.0/rest-assured-common-5.3.0.jar:/Users/praveen/.m2/repository/io/rest-assured/xml-path/5.3.0/xml-path-5.3.0.jar:/Users/praveen/.m2/repository/org/projectlombok/lombok/1.18.28/lombok-1.18.28.jar:/Users/praveen/.m2/repository/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/Users/praveen/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/praveen/.m2/repository/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar:/Users/praveen/.m2/repository/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar:/Users/praveen/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.20.0/log4j-slf4j-impl-2.20.0.jar:/Users/praveen/.m2/repository/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar:/Users/praveen/.m2/repository/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar:/Users/praveen/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2.jar:/Users/praveen/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/praveen/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/praveen/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/praveen/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/praveen/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/praveen/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/praveen/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/praveen/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/praveen/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/praveen/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:"/>
+    <property name="java.vm.vendor" value="JetBrains s.r.o."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="/Users/praveen/Library/Java/JavaVirtualMachines/jbr-17.0.7/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/praveen/Documents/personal_automation/api_automation_restAssured/target/surefire/surefirebooter6195114006198210241.jar /Users/praveen/Documents/personal_automation/api_automation_restAssured/target/surefire 2024-10-22T23-21-52_486-jvmRun1 surefire9261205009389426867tmp surefire_02097412161296894126tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/praveen/Documents/personal_automation/api_automation_restAssured/target/test-classes:/Users/praveen/Documents/personal_automation/api_automation_restAssured/target/classes:/Users/praveen/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/praveen/.m2/repository/com/jayway/jsonpath/json-path/2.8.0/json-path-2.8.0.jar:/Users/praveen/.m2/repository/net/minidev/json-smart/2.4.10/json-smart-2.4.10.jar:/Users/praveen/.m2/repository/net/minidev/accessors-smart/2.4.9/accessors-smart-2.4.9.jar:/Users/praveen/.m2/repository/org/ow2/asm/asm/9.3/asm-9.3.jar:/Users/praveen/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.18.0/jackson-databind-2.18.0.jar:/Users/praveen/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.18.0/jackson-annotations-2.18.0.jar:/Users/praveen/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.18.0/jackson-core-2.18.0.jar:/Users/praveen/.m2/repository/io/rest-assured/rest-assured/5.3.0/rest-assured-5.3.0.jar:/Users/praveen/.m2/repository/org/apache/groovy/groovy/4.0.6/groovy-4.0.6.jar:/Users/praveen/.m2/repository/org/apache/groovy/groovy-xml/4.0.6/groovy-xml-4.0.6.jar:/Users/praveen/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/Users/praveen/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/Users/praveen/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/Users/praveen/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/Users/praveen/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/Users/praveen/.m2/repository/org/hamcrest/hamcrest/2.1/hamcrest-2.1.jar:/Users/praveen/.m2/repository/org/ccil/cowan/tagsoup/tagsoup/1.2.1/tagsoup-1.2.1.jar:/Users/praveen/.m2/repository/io/rest-assured/json-path/5.3.0/json-path-5.3.0.jar:/Users/praveen/.m2/repository/org/apache/groovy/groovy-json/4.0.6/groovy-json-4.0.6.jar:/Users/praveen/.m2/repository/io/rest-assured/rest-assured-common/5.3.0/rest-assured-common-5.3.0.jar:/Users/praveen/.m2/repository/io/rest-assured/xml-path/5.3.0/xml-path-5.3.0.jar:/Users/praveen/.m2/repository/org/projectlombok/lombok/1.18.28/lombok-1.18.28.jar:/Users/praveen/.m2/repository/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/Users/praveen/.m2/repository/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar:/Users/praveen/.m2/repository/ch/qos/logback/logback-classic/1.4.11/logback-classic-1.4.11.jar:/Users/praveen/.m2/repository/ch/qos/logback/logback-core/1.4.11/logback-core-1.4.11.jar:/Users/praveen/.m2/repository/org/apache/logging/log4j/log4j-slf4j-impl/2.20.0/log4j-slf4j-impl-2.20.0.jar:/Users/praveen/.m2/repository/org/apache/logging/log4j/log4j-api/2.20.0/log4j-api-2.20.0.jar:/Users/praveen/.m2/repository/org/apache/logging/log4j/log4j-core/2.20.0/log4j-core-2.20.0.jar:/Users/praveen/.m2/repository/org/testng/testng/7.10.2/testng-7.10.2.jar:/Users/praveen/.m2/repository/com/beust/jcommander/1.82/jcommander-1.82.jar:/Users/praveen/.m2/repository/org/webjars/jquery/3.7.1/jquery-3.7.1.jar:/Users/praveen/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/praveen/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/praveen/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/praveen/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/praveen/.m2/repository/com/github/javafaker/javafaker/1.0.2/javafaker-1.0.2.jar:/Users/praveen/.m2/repository/org/yaml/snakeyaml/1.23/snakeyaml-1.23-android.jar:/Users/praveen/.m2/repository/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar:/Users/praveen/.m2/repository/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/praveen"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.home" value="/Users/praveen/Library/Java/JavaVirtualMachines/jbr-17.0.7/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/praveen/Documents/personal_automation/api_automation_restAssured"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="jbr.virtualization.information" value="No virtualization detected"/>
+    <property name="surefire.real.class.path" value="/Users/praveen/Documents/personal_automation/api_automation_restAssured/target/surefire/surefirebooter6195114006198210241.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="17.0.7+7-b979.4"/>
+    <property name="user.name" value="praveen"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="13.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="JBR-17.0.7+7-979.4-nomod"/>
+    <property name="localRepository" value="/Users/praveen/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/r5/wl3641vn0gn0tf1dmt3p2t780000gp/T/"/>
+    <property name="java.version" value="17.0.7"/>
+    <property name="user.dir" value="/Users/praveen/Documents/personal_automation/api_automation_restAssured"/>
+    <property name="os.arch" value="aarch64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/praveen/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="JetBrains s.r.o."/>
+    <property name="java.vm.version" value="17.0.7+7-b979.4"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="test_createObject" classname="test.TestClass" time="1.977">
+    <system-out><![CDATA[dev
+2024-10-22 23:21:53 INFO  [main] d.r.a.c.u.RestUtils:55 - BASEURL -> https://api.restful-api.dev/
+2024-10-22 23:21:53 INFO  [main] d.r.a.c.u.RestUtils:56 - ENDPOINT -> objects
+2024-10-22 23:21:53 INFO  [main] d.r.a.c.u.RestUtils:83 - Request body : {"name":"6CF54DE7","data":{"year":2019,"price":1849.99,"CPU model":"Intel Core i9","Hard disk size":"1 TB"}}
+2024-10-22 23:21:54 INFO  [main] d.r.a.c.u.RestUtils:86 - [POST] : https://api.restful-api.dev/objects status code : 200
+2024-10-22 23:21:54 INFO  [main] t.TestClass:31 - test response ::: 
+2024-10-22 23:21:54 INFO  [main] t.TestClass:32 - test response ::: 
+2024-10-22 23:21:54 INFO  [main] d.r.a.c.u.RestUtils:203 - actual response code is {200} and expected response code is {200}
+]]></system-out>
+  </testcase>
+  <testcase name="test_validateObjectId" classname="test.TestClass" time="0.004"/>
+</testsuite>
